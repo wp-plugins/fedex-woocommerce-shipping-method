@@ -15,11 +15,10 @@ Fedex Shipping Method Plugin for Realtime Shipping Rates on WooCommerce Stores
 = Introduction =
 Fedex WooCommerce Shipping plugin helps WooCommerce based stores to streamline Fedex shipping integration. This plugin helps you to get shipping rates from Fedex APIs based on product weight, post code and other relevant details. Based on the postal codes and other parameters, all available shipping services along with the rates are listed for the customers to choose from.
 
-
-<blockquote>
 = Buy Premium version of Fedex WooCommerce Shipping plugin =
 <a rel="nofollow" href="http://www.wooforce.com/product/fedex-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
-
+[youtube https://www.youtube.com/watch?v=kSCmNxCegWE]
+<blockquote>
 = Premium version Features =
 Fedex Premium version streamlines your complete shipping process and saves time
 <ul>
